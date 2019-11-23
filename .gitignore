@@ -1,3 +1,10 @@
+.vs/
+out/
+
+*.user
+
+CMakeSettings.json
+
 # Prerequisites
 *.d
 

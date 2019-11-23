@@ -1,0 +1,3 @@
+[submodule "extern/qcustomplot"]
+	path = extern/qcustomplot
+	url = git@gitlab.com:orri93/QCustomPlot.git
